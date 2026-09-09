@@ -1,16 +1,54 @@
-## Hi there 👋
+# 👋 Hi, I'm Anushka
 
-<!--
-**baberwalanushka/baberwalanushka** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 📊 Aspiring Data Analyst
 
-Here are some ideas to get you started:
+I'm an aspiring Data Analyst with a strong interest in data analysis, visualization, and problem-solving.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy working with data, exploring patterns, and turning data into meaningful insights.
+
+---
+
+## 🛠️ Skills
+
+**Programming & Data Analysis**
+- 🐍 Python
+- 🐼 Pandas
+- 🔢 NumPy
+
+**Database**
+- 🗄️ SQL
+
+**Tools & Visualization**
+- 📊 Microsoft Excel
+- 📈 Power BI
+- 📉 Seaborn
+
+---
+
+## 📜 Certificates
+
+### 🏆 30 Days Power BI Micro Course
+
+![Power BI Certificate](power%20bi%20_certificate.png)
+
+### 🐍 30 Days Python Micro Course
+
+![Python Certificate](python_certificate.png)
+
+### 🗄️ 30-Days SQL Micro Course
+
+![SQL Certificate](sql_certificate.png)
+
+---
+
+## 📫 Connect With Me
+
+📧 **Email:** baberwalanushka05@gmaiil.com
+
+💼 **LinkedIn:** [Connect with me](www.linkedin.com/in/anushka-baberwal-609b90428)
+
+🐙 **GitHub:** [@baberwalanushka](https://github.com/baberwalanushka)
+
+---
+
+### ✨ Always Learning • Always Improving • Always Exploring Data
