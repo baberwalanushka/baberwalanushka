@@ -27,6 +27,11 @@ I enjoy working with data, exploring patterns, and turning data into meaningful 
 
 ## 📜 Certificates
 
+
+###🏆 Skill Degree in Data Analytics
+
+![Data Analytics Certificate](DA_certificate.png)
+
 ### 🏆 30 Days Power BI Micro Course
 
 ![Power BI Certificate](power%20bi%20_certificate.png)
@@ -38,6 +43,11 @@ I enjoy working with data, exploring patterns, and turning data into meaningful 
 ### 🗄️ 30-Days SQL Micro Course
 
 ![SQL Certificate](sql_certificate.png)
+
+
+### 🏆 Microsoft Excel Beginners to Advance
+
+![Microsoft Excel Certificate](excel_certificate.png)
 
 ---
 
